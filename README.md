@@ -4,5 +4,4 @@ This app includes UICollectionView, sound playing, working with many viewControl
 Step1) Drag and drop Sounds file into ABC file
 
 Step2) Create new folder named ABC-app(or what you want)
-
 Step3) Drag all files and folders into ABC-app folder
